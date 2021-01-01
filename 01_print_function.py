@@ -3,7 +3,7 @@
 # Use to print something on screen
 
 """
-String -> Collection of charaxter inside "Double quotes" or 'single quotes'
+String -> Collection of character inside "Double quotes" or 'single quotes'
 """
 
 # Example
