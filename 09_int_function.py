@@ -13,3 +13,10 @@ number2 = float("44")
 number3 = int("44")
 print(type(number2))
 print(number2+number3)
+
+
+# Two or more input in one line
+# Split is string method
+name, age = input("Enter your name & age : ").split(",")
+print(name)
+print(age)
