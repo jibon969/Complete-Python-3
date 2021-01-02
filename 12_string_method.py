@@ -71,4 +71,3 @@ print(learn)
 c = learn.find("how")
 d = learn.find('how', 1)    # Here 1 for start 1 position
 print(c)
-
